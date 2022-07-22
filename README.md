@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Princess</h1>
 <h3 align="center">A passionate frontend developer from West Africa</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=iampearlep&label=Profile%20views&color=0e75b6&style=flat" alt="iampearlep" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=iampearlep" alt="iampearlep" /></a> </p>
-
 <p align="left"> <a href="https://twitter.com/pearl_codes" target="blank"><img src="https://img.shields.io/twitter/follow/pearl_codes?logo=twitter&style=for-the-badge" alt="pearl_codes" /></a> </p>
 
 - 🔭 I’m currently working on **projects with html, css & javascript**
