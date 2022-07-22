@@ -2,7 +2,9 @@
 <h3 align="center">A passionate frontend developer from Nigeria</h3>
 
 
-<p align="left"> <a href="https://twitter.com/pearl_codes" target="blank"><img src="https://img.shields.io/twitter/follow/pearl_codes?logo=twitter&style=for-the-badge" alt="pearl_codes" /></a> </p>
+
+
+
 
 - 🔭 I’m currently working on **projects with html, css and javascript**
 
@@ -12,7 +14,7 @@
 
 - 📫 How to reach me **damilolaprincess4@gmail.com**
 
-- ⚡ Fun fact **I like to listen to music.**
+- ⚡ Fun fact **I love listening to music.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
