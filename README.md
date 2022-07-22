@@ -31,6 +31,6 @@
 
 ## 📊 My Github Stats
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=iampearlep&show_icons=true&locale=en&layout=compact&theme=midnight" alt="iampearlep" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=iampearlep&show_icons=true&locale=en&layout=compact&bg_color=0D1117" alt="iampearlep" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=iampearlep&show_icons=true&locale=en&theme=midnight" alt="iampearlep" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=iampearlep&show_icons=true&locale=en&bg_color=0D1117" alt="iampearlep" /></p>
