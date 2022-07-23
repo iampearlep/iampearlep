@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on **projects with html, css and javascript**
 
-- 🌱 I’m currently learning more of **Javascript, NodeJs, RestAPI and TailwindCss**
+- 🌱 I’m currently learning more of **Javascript, React, RestAPI and TailwindCss**
 
 - 👯 I’m looking to collaborate on **projects with other young developers**
 
