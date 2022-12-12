@@ -7,7 +7,7 @@
 ## 🙋 About Me
 
 
-- 🔭 I’m currently working on **projects with html, css and javascript**
+- 🔭 I’m currently working on **projects with React and TailwindCss**
 
 - 🌱 I’m currently learning more of **Javascript, React, RestAPI and TailwindCss**
 
